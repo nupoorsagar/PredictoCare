@@ -19,4 +19,4 @@ Slider for values
 <img width="2806" height="1488" alt="image" src="https://github.com/user-attachments/assets/2a7a5d8c-e11d-4fd3-9338-669da7351043" />
 
 Malignant predcition
-<img width="2800" height="1488" alt="image" src="https://github.com/user-attachments/assets/da9da491-3f68-4fff-b68b-c7aac150758a" />
+<img width="2800" height="1488" alt="image" src="https://github.com/user-attachments/assets/da9da491-3f68-4fff-b68b-c7aac150758a" /> 
